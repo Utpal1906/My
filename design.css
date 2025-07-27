@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    
+    color: white;
+}
+h2{
+    color: #99999999;
+}
+body{
+    background-color: beige;
+    font-family: 'bebas neue';
+}
+header{
+    background-color: rgb(77, 85, 85);
+    
+}
+#name,a{
+    color: rgb(0, 196, 98);
+}
+.unick{
+    color: rgb(233, 34, 34);
+}
+a:hover{
+    color: red;
+    background-color: aqua;
+    text-decoration: line-through;
+}
+section{
+    background-color: blueviolet;
+}
+div{
+    background-color: beige;
+    text-align: center ;
+    min-width: fit-content; margin:  auto;
+    max-width: 250;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+em{
+    text-decoration: none;
+    font-style: normal;
+}
+.box{
+    text-align: center ;
+    min-width: fit-content; margin: auto;
+    max-width: 75.5%;
+    
+}
+a{
+    text-decoration: none;
+}
